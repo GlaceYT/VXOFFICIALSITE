@@ -11,7 +11,7 @@ function Pricing() {
         true,  // Least charges and fees
         true, // Prioritized order process
         true, // Prioritized support
-        true, // Early bot testing opportunities
+        false, // Early bot testing opportunities
         true, // Special role in server
         true, // Access to private channels
       ],
