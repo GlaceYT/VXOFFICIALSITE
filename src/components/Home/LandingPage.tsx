@@ -18,11 +18,11 @@ function LandingPage() {
                   </span>
                 </h1>
                 <p className="mt-6 text-lg font-normal text-white sm:text-xl">
-                  Crypto to Currency in seconds.
+                Redefining the Way You Exchange Cryptos and Currencies.
                 </p>
                 <div className="mt-8 sm:mt-10">
                   <a
-                    href="#"
+                    href="https://discord.com/oauth2/authorize?client_id=1315015584995348592&permissions=137439341632&integration_type=0&scope=bot"
                     className="inline-flex items-center justify-center px-8 py-4 text-base font-normal text-white transition-all duration-200 rounded-full bg-gradient-to-r from-cyan-500 to-purple-500 hover:contrast-150"
                     role="button"
                   >
