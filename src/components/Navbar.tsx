@@ -95,7 +95,7 @@ function Navbar() {
             <div className="relative hidden md:inline-flex group">
               <div className="absolute transition-all duration-200 rounded-full -inset-px bg-gradient-to-r from-cyan-500 to-purple-500 group-hover:shadow-lg group-hover:shadow-cyan-500/50"></div>
               <a
-                href="#"
+                href="https://discord.gg/nuWzGbu8De"
                 className="relative inline-flex items-center justify-center px-6 py-2 text-base font-medium text-white bg-black border border-transparent rounded-full"
                 role="button"
               >
@@ -140,7 +140,7 @@ function Navbar() {
               <div className="relative inline-flex items-center justify-center group">
                 <div className="absolute transition-all duration-200 rounded-full -inset-px bg-gradient-to-r from-cyan-500 to-purple-500 group-hover:shadow-lg group-hover:shadow-cyan-500/50"></div>
                 <a
-                  href="#"
+                  href="https://discord.gg/nuWzGbu8De"
                   className="relative inline-flex items-center justify-center w-full px-6 py-2 text-base font-medium text-white bg-black border border-transparent rounded-full"
                   role="button"
                 >
