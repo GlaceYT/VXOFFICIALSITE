@@ -66,10 +66,10 @@ function Navbar() {
                 Home
               </a>
               <a
-                href="/bot"
+                href="/server"
                 className="text-base font-medium text-gray-400 transition-all duration-200 hover:text-white"
               >
-                Our Bot
+                Server
               </a>
               <a
                 href="/documentation"
@@ -114,10 +114,10 @@ function Navbar() {
                 Home
               </a>
               <a
-                href="/bot"
+                href="/server"
                 className="text-base font-medium text-gray-400 transition-all duration-200 hover:text-white"
               >
-                Our Bot
+                Server
               </a>
               <a
                 href="/documentation"
