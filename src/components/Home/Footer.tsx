@@ -10,10 +10,10 @@ function Footer() {
 
                 <ul className="mt-8 space-y-4">
                     <li>
-                        <a href="#" title="" className="text-base text-white transition-all duration-200 hover:text-opacity-80 focus:text-opacity-80"> Documentation </a>
+                        <a href="/documentation" title="" className="text-base text-white transition-all duration-200 hover:text-opacity-80 focus:text-opacity-80"> Documentation </a>
                     </li>
                     <li>
-                        <a href="#" title="" className="text-base text-white transition-all duration-200 hover:text-opacity-80 focus:text-opacity-80"> Contact </a>
+                        <a href="/server" title="" className="text-base text-white transition-all duration-200 hover:text-opacity-80 focus:text-opacity-80"> Server </a>
                     </li>
                 </ul>
             </div>
