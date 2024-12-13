@@ -9,11 +9,11 @@ function Pricing() {
       duration: "7 Days Access",
       features: [
         true,  // Least charges and fees
-        false, // Prioritized order process
-        false, // Prioritized support
-        false, // Early bot testing opportunities
-        false, // Special role in server
-        false, // Access to private channels
+        true, // Prioritized order process
+        true, // Prioritized support
+        true, // Early bot testing opportunities
+        true, // Special role in server
+        true, // Access to private channels
       ],
     },
     {
@@ -24,9 +24,9 @@ function Pricing() {
         true,  // Least charges and fees
         true,  // Prioritized order process
         true,  // Prioritized support
-        false, // Early bot testing opportunities
-        false, // Special role in server
-        false, // Access to private channels
+        true, // Early bot testing opportunities
+        true, // Special role in server
+        true, // Access to private channels
       ],
     },
     {
@@ -39,7 +39,7 @@ function Pricing() {
         true,  // Prioritized support
         true,  // Early bot testing opportunities
         true,  // Special role in server
-        false, // Access to private channels
+        true, // Access to private channels
       ],
     },
     {
