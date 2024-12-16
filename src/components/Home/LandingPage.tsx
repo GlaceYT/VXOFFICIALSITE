@@ -29,12 +29,6 @@ function LandingPage() {
                     Invite Bot Now!
                   </a>
                 </div>
-
-                <p className="max-w-xs mx-auto mt-4 text-base font-normal text-gray-400 sm:mt-8">
-                  No comission charges will apply.
-                  <br />
-                  Plans start at $2.99
-                </p>
               </div>
 
               <div className="lg:col-span-2 lg:order-first">
