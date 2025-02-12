@@ -20,7 +20,7 @@ function Processing() {
   const [paymentMethod, setPaymentMethod] = useState<string>("paypal");
   const [paymentStatus, setPaymentStatus] = useState<string | null>(null);
   const [isWaiting, setIsWaiting] = useState(false);
-  const [isTesting, setIsTesting] = useState(false);
+  const [isTesting] = useState(false);
 
   const state = location.state as State;
   const { planTitle, planPrice, planDuration, planFeatures } = state || {};
