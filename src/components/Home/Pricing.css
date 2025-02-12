@@ -1,0 +1,90 @@
+/* General Styling */
+.pricing {
+    background: #121212;
+    color: #fff;
+    padding: 4rem 2rem;
+    text-align: center;
+  }
+  
+  .pricing h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    color: #00ffab;
+  }
+  
+  /* Pricing Tiers Grid */
+  .pricing-tiers {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+  
+  /* Individual Plan Styling */
+  .plan {
+    background: #1e1e1e;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .plan:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 255, 171, 0.3);
+  }
+  
+  .plan h3 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #00ffab;
+  }
+  
+  .plan .price {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    color: #fff;
+  }
+  
+  .plan ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+  }
+  
+  .plan li {
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    margin: 0.5rem 0;
+  }
+  
+  .plan li .tick {
+    color: #00ffab;
+    margin-right: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .plan li .cross {
+    color: #ff5e5e;
+    margin-right: 0.5rem;
+    font-weight: bold;
+  }
+  
+  /* Button Styling */
+  .btn-select {
+    padding: 0.75rem 1.5rem;
+    margin-top: 1rem;
+    background: #00ffab;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .btn-select:hover {
+    background: #00d494;
+  }
+  
